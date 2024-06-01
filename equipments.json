@@ -1,0 +1,105 @@
+[{
+  "id": "dcdd0fad-a94c-4810-8acc-5f108d3b18c3",
+  "code":"ADR-48611",
+  "name": "impresora",
+  "description":"Impresora EPSON laser",
+  "state": "A"
+},
+{
+  "id": "c8a7d63f-3b04-44d3-9d95-8782fd7dcfaf",
+  "code":"ADR-48611",
+  "name": "impresora",
+  "description":"Impresora EPSON laser",
+  "state": "A"
+},
+{
+  "id": "5ad1a235-0d9c-410a-b32b-220d91689a08",
+  "code":"ADR-48611",
+  "name": "impresora",
+  "description":"Impresora EPSON laser",
+  "state": "A"
+},
+{
+  "id": "241bf55d-b649-4109-af7c-0e6890ded3fc",
+  "code":"ADR-48611",
+  "name": "impresora",
+  "description":"Impresora EPSON laser",
+  "state": "M"
+},
+{
+  "id": "9e6106f0-848b-4810-a11a-3d832a5610f9",
+  "code":"ADR-48611",
+  "name": "impresora",
+  "description":"Impresora EPSON laser",
+  "state": "M"
+},
+{
+  "id": "7e3fd5ab-60ff-4ae2-92b6-9597f0308d1",
+  "code":"ADR-48611",
+  "name": "impresora",
+  "description":"Impresora EPSON laser",
+  "state": "M"
+},
+{
+  "id": "c906673b-3948-4402-ac7f-73ac3a9e3105",
+  "code":"ADR-48611",
+  "name": "impresora",
+  "description":"Impresora EPSON laser",
+  "state": "M"
+},
+{
+  "id": "b6e03689-cccd-478e-8565-d92f40813b13",
+  "code":"ADR-48611",
+  "name": "impresora",
+  "description":"Impresora EPSON laser",
+  "state": "M"
+},
+{
+  "id": "aa391090-b938-42eb-b520-86ea0aa3917b",
+  "code":"ADR-48611",
+  "name": "impresora",
+  "description":"Impresora EPSON laser",
+  "state": "M"
+},
+{
+  "id": "2e6900e2-0b48-4fb6-ad48-09c7086e54fe",
+  "code":"ADR-48611",
+  "name": "impresora",
+  "description":"Impresora EPSON laser",
+  "state": "M"
+},
+{
+  "id": "04986507-b3ed-442c-8ae7-4c5df804f896",
+  "code":"ADR-48611",
+  "name": "impresora",
+  "description":"Impresora EPSON laser",
+  "state": "M"
+},
+{
+  "id": "7d2832f8-c70a-410e-8963-4c93bf36cc9c",
+  "code":"ADR-48611",
+  "name": "impresora",
+  "description":"Impresora EPSON laser",
+  "state": "M"
+},
+{
+  "id": "ccf36f2e-8566-47f7-912d-9f4647250bc7",
+  "code":"ADR-48611",
+  "name": "impresora",
+  "description":"Impresora EPSON laser",
+  "state": "M"
+},
+{
+  "id": "8fb17ae1-bdfe-45e5-a871-4772d7e526b8",
+  "code":"ADR-48611",
+  "name": "impresora",
+  "description":"Impresora EPSON laser",
+  "state": "M"
+},
+{
+  "id": "6a360a18-c645-4b47-9a7b-2a71babbf3e0",
+  "code":"ADR-48611",
+  "name": "proyector",
+  "description":"Impresora EPSON laser",
+  "state": "M"
+}]
